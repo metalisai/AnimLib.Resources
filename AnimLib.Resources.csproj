@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+      <EmbeddedResource Include="txt/test.txt"/>
+      <EmbeddedResource Include="sounds/*.ogg"/>
+  </ItemGroup>
+
+</Project>
