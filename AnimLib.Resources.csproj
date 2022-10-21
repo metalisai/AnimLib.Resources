@@ -7,6 +7,9 @@
   <ItemGroup>
       <EmbeddedResource Include="txt/test.txt"/>
       <EmbeddedResource Include="sounds/*.ogg"/>
+      <EmbeddedResource Include="font/DejaVuSansMono.ttf"/>
+      <EmbeddedResource Include="font/cmunss.ttf"/>
+      <EmbeddedResource Include="font/cmunrm.ttf"/>
   </ItemGroup>
 
 </Project>
